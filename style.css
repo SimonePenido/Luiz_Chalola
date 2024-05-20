@@ -11,13 +11,13 @@ Version: 1.2
 /** Base Styles
 --------------------------------------------------------------*/
 :root {
-  --accent-color: #F26649;
+  --accent-color: #01db01; /* Verde */
   --secondary-color: #F5F3EB;
-  --dark-color: #241F21;
+  --dark-color: #000000; /* Preto */
   --grey-color: #CECBC7;
-  --body-text-color: #241F21;
+  --body-text-color: #000000; /* Preto */
   --light-text-color: #696969;
-  --link-color: #241F21;
+  --link-color: #000000; /* Preto */
 }
 
 *,
@@ -295,7 +295,7 @@ header {
 }
 
 img.hero-img {
-  border: 10px solid rgba(242, 102, 73, 0.2);
+  border: 10px solid rgba(85, 253, 18, 0.8);
 }
 
 
