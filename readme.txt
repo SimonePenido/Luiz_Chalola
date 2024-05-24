@@ -1,3 +1,5 @@
+![Luiz Chalola](images/capa.png)
+
 # Landing Page para Luiz Chalola - Cibersegurança
 
 Este repositório contém o código fonte de uma landing page para Luiz Chalola, um profissional especializado em Cibersegurança. O projeto foi criado utilizando um template Bootstrap customizado por mim, Simone Penido.
