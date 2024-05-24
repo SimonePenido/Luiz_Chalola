@@ -1,49 +1,68 @@
-Get the PRO version here:
-https://templatesjungle.gumroad.com/l/carl-free-bootstrap-5-html-website-template-for-portfolio
+# Landing Page para Luiz Chalola - Cibersegurança
 
-It is a free Bootstrap HTML CSS template by TemplatesJungle.com
-You can use this template as a starter template and start building as you require.
+Este repositório contém o código fonte de uma landing page para Luiz Chalola, um profissional especializado em Cibersegurança. O projeto foi criado utilizando um template Bootstrap customizado por mim, Simone Penido.
 
-The code is consistent and can be easily maintained as we have followed a good coding standards. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
+## Visão Geral
 
+A landing page foi projetada para apresentar os serviços oferecidos por Luiz Chalola, destacando suas habilidades e experiência na área de Cibersegurança. O objetivo é fornecer uma interface atraente e funcional que facilite o contato de clientes potenciais.
 
-FREE FOR BOTH PERSONAL AND COMMERCIAL USE
+## Link para Visualização
 
-This HTML Template is provided by TemplatesJungle.com and is free to use in both personal and commercial projects as long as you don't remove our credit link in the footer.
+A landing page está disponível para visualização no seguinte link:
+[https://luizchalola.netlify.app](https://luizchalola.netlify.app)
 
-However, you can remove the credit link by paying for PRO version of the template which also includes additional pages.
+## Tecnologias Utilizadas
 
+- **HTML5**: Para a estruturação do conteúdo.
+- **CSS3**: Para estilização e layout.
+- **Bootstrap**: Para componentes responsivos e design moderno.
+- **JavaScript**: Para interatividade e funcionalidades dinâmicas.
 
-RIGHTS
+## Estrutura do Projeto
 
-You are allowed to use it in your personal projects and commercial projects.
+A estrutura do projeto está organizada da seguinte forma:
 
-You can modify and sell it to your clients.
+## Funcionalidades
 
+- **Layout Responsivo**: Adaptável a diferentes dispositivos e tamanhos de tela.
+- **Seções Informativas**: Inclui seções como Sobre, Serviços, Depoimentos, e Contato.
+- **Formulário de Contato**: Permite que os visitantes entrem em contato diretamente através da página.
 
-PROHIBITIONS
+## Como Executar Localmente
 
-You cannot remove the credit link which links back to templatesjungle.com if you downloaded free version.
+1. Clone este repositório:
+    ```bash
+    git clone https://github.com/SimonePenido/Luiz_Chalola.git
+    ```
 
-You are not permitted to resell or redistribute (paid or free) as it is. 
+2. Navegue até o diretório do projeto:
+    ```bash
+    cd Luiz_Chalola
+    ```
 
-You cannot use it to build premium templates, themes or any other goods to be sold on marketplaces.
+3. Abra o arquivo `index.html` no seu navegador preferido.
 
-If you want to share the free resource in your blog, you must point it to original TemplatesJungle.com resource page. 
+## Contribuição
 
-You cannot host the download file in your website.
+Se desejar contribuir para este projeto, por favor siga os passos abaixo:
 
+1. Faça um fork do projeto.
+2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`).
+3. Commit suas alterações (`git commit -m 'Adiciona nova feature'`).
+4. Faça o push para a branch (`git push origin feature/nova-feature`).
+5. Abra um Pull Request.
 
-SUPPORT
+---
 
-You can contact us to report any bugs and errors in the template. We will try and fix them immediately although it's a free resource.
-
-Feel free to let us know about what you want to see in the future downloads. We will definitely give it a thought while creating our next freebie.
+Desenvolvido por [Simone Penido](https://github.com/SimonePenido).
 
 
 CREDITS & REFERENCES
 
 https://getbootstrap.com/
+
+Template
+https://templatesjungle.com/
 
 Stock Photos
 https://unsplash.com/
@@ -61,5 +80,4 @@ JQuery Plugins
 Swiper Slider - https://swiperjs.com/
 AOS - https://michalsnik.github.io/aos/
 
-Thanks for downloading from TemplatesJungle.com !
 
