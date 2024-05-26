@@ -649,6 +649,10 @@ p.contact-paragraph {
   color: var(--body-text-color);
 }
 
+.social-link {
+  font-size: 1.5rem;
+}
+
 /*.form-control {
   border: 1px solid transparent;
   height: 60px;
@@ -666,7 +670,6 @@ p.contact-paragraph {
     justify-content: center;
     margin-bottom: 20px;
     padding: 0px;
-
   }
 
 }
