@@ -1,12 +1,3 @@
-/*
-Theme Name: Carl
-Theme URI:
-Author: TemplatesJungle
-Author URI: https://templatesjungle.com/
-Description: Carl Brown is Boothstrap 5 HTML Template For Personal Portfolio CV  by TemplatesJungle. 
-Version: 1.2
-*/
-
 
 /** Base Styles
 --------------------------------------------------------------*/
@@ -537,6 +528,8 @@ button.filter-button:hover {
 
 img.portfolio-img {
   width: -webkit-fill-available;
+  width: 100%;
+  height: auto;
 }
 
 .item {
@@ -656,10 +649,10 @@ p.contact-paragraph {
   color: var(--body-text-color);
 }
 
-.form-control {
+/*.form-control {
   border: 1px solid transparent;
   height: 60px;
-}
+}*/
 
 @media only screen and (max-width: 900px) {
 
@@ -680,7 +673,7 @@ p.contact-paragraph {
 
 /*--------------------------------------------------------------
 faqs section style start
---------------------------------------------------------------*/
+--------------------------------------------------------------
 .accordion-button {
   position: relative;
   display: flex;
@@ -714,7 +707,7 @@ faqs section style start
   --bs-accordion-btn-icon: url('https://api.iconify.design/eva/arrow-up-fill.svg?color=white');
   --bs-accordion-btn-active-icon: url('https://api.iconify.design/eva/arrow-up-fill.svg?color=white');
 }
-
+*/
 
 /*--------------------------------------------------------------
 reviews section style start
