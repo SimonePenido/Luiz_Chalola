@@ -28,7 +28,7 @@ A estrutura do projeto está organizada da seguinte forma:
 
 - **Layout Responsivo**: Adaptável a diferentes dispositivos e tamanhos de tela.
 - **Seções Informativas**: Inclui seções como Sobre, Serviços, Depoimentos, e Contato.
-- **Formulário de Contato**: Permite que os visitantes entrem em contato diretamente através da página.
+- **Link de Contato**: Permite que os visitantes entrem em contato diretamente através da página.
 
 ## Como Executar Localmente
 
