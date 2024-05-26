@@ -3,11 +3,11 @@
 --------------------------------------------------------------*/
 :root {
   --accent-color: #01db01; /* Verde */
-  --secondary-color: #F5F3EB;
+  --secondary-color: #edf5db;
   --dark-color: #000000; /* Preto */
-  --grey-color: #CECBC7;
+  --grey-color: #acafaa;
   --body-text-color: #000000; /* Preto */
-  --light-text-color: #696969;
+  --light-text-color: #4c4d4c;
   --link-color: #000000; /* Preto */
 }
 

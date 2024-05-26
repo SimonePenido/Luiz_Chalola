@@ -806,7 +806,22 @@
         </div>
     </div>
 
+    <div id="gdpr-banner" style="display: none; position: fixed; bottom: 0; width: 100%; background: #f9f9f9; padding: 20px; text-align: center; border-top: 1px solid #ccc;">
+        <p>Este site usa cookies para melhorar a sua experiência. Ao continuar a usar este site, você concorda com a nossa <a href="politica-de-privacidade.html">Política de Privacidade e </a><a href="politica-de-privacidade.html">Termos de Uso</a>.</p>
+        <button onclick="aceitarCookies()">Aceitar</button>
+    </div>
 
+    <script>
+        function aceitarCookies() {
+            document.getElementById('gdpr-banner').style.display = 'none';
+            // Aqui você pode definir um cookie para lembrar que o usuário aceitou a política de privacidade
+        }
+        window.onload = function() {
+            // Aqui você pode verificar se o usuário já aceitou a política de privacidade
+            // Se não, mostre o banner
+            document.getElementById('gdpr-banner').style.display = 'block';
+        }
+        </script>
     <script src="js/jquery-1.11.0.min.js"></script>
     <script src="js/plugins.js"></script>
     <script src="js/script.js"></script>
